@@ -73,3 +73,5 @@ See <https://m3u.ibert.me> to get more.
 GPL-3.0 &copy; Herbert He
 
 本项目基于 GPL-3.0 协议开源。
+<!-- Trigger GitHub Actions -->
+
